@@ -10,12 +10,14 @@ I do Webdev and Mobile programming, learning linux and basically how computer wo
   - ♨️  Java
   - 🔥 Javascript 
   - 🕹️ C# (mostly on Unity game engine script)
+  - 🐘 PHP (on laravel)
 
 ### Programming Skill
   - ⚛️ React/React-native
   - 🍃 Nodejs
   - 🚆 Express
   - 🧑‍🤝‍🧑 SQL and non-SQL
+  - 📦 Laravel
 
 <!---
 madaghafuri/madaghafuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
