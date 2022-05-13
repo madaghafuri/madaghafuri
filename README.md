@@ -13,6 +13,7 @@ You can contact me through mada.ghafuri@gmail.com
   - 🔥 Javascript 
   - 🕹️ C# (mostly on Unity game engine script)
   - 🐘 PHP (on laravel)
+  - 🔥 TypeScript
 
 ### Technical Skill
   - ⚛️ React/React-native
