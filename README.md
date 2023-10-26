@@ -3,7 +3,7 @@ I am currently a student at Binus University majoring in Computer Science. I lea
 
 I do Webdev and Mobile programming, learning linux and basically how computer works
 
-You can contact me through mada.ghafuri@gmail.com
+You can contact me through muhammadghafuri6301@gmail.com
 
 ## Stuff i have learned
 
