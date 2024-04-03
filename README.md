@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @madaghafuri
-I am currently a student at Binus University majoring in Computer Science. I learn anything that piqued my interest
+I am BINUS Uni graduate currently staying at Jakarta, Indonesia. I learn anything that piqued my interest
 
 I do Webdev and Mobile programming, learning linux and basically how computer works
 
@@ -14,6 +14,7 @@ You can contact me through muhammadghafuri6301@gmail.com
   - 🕹️ C# (mostly on Unity game engine script)
   - 🐘 PHP (on laravel)
   - 🔥 TypeScript
+  - 🐍 Python
 
 ### Technical Skill
   - ⚛️ React/React-native
@@ -21,6 +22,7 @@ You can contact me through muhammadghafuri6301@gmail.com
   - 🚆 Express
   - 🧑‍🤝‍🧑 SQL and non-SQL
   - 📦 Laravel
+  - 🔥 PyTorch
 
 <!---
 madaghafuri/madaghafuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
